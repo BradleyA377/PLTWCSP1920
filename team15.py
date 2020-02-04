@@ -6,8 +6,8 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'team3'# Only 10 chars displayed
-strategy_name = 'Collude but retaliate'
+team_name = 'team15'# Only 10 chars displayed
+strategy_name = 'Collude '
 strategy_description = '''\
 Collude first round. Collude, except in a round after getting 
 a severe punishment.'''
